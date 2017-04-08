@@ -1,0 +1,3 @@
+server:
+  context-path: /mymicroservice
+  port: 9999
