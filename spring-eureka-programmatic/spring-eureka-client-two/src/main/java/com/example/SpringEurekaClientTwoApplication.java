@@ -20,7 +20,7 @@ public class SpringEurekaClientTwoApplication {
 
 	@RequestMapping("/serviceinfo")
 	private String serviceInfo() {
-		InstanceInfo instance = client.getNextServerFromEureka("MyClientOne", false);
+		InstanceInfo instance = client.getNextServerFromEureka("MyMicroServiceOne", false);
 		StringBuffer sBuffer = new StringBuffer("");
 		sBuffer.append("Home Page Url: " + instance.getHomePageUrl() +
 						"<BR/>App Name " + instance.getAppName() +
