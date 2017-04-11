@@ -5,4 +5,5 @@
 5. spring-eureka-programmatic: Programmatically getting details of another service
 6. spring-eureka-resttemplate: Example of how to use a RestTemplate
 7. spring-hystrix-ciruitbreaker: Circuit breaker example
-8. 
+8. spring-hystrix-config: Configuration parameters to Hystrix Command
+9. spring-hystrix-dashboard: Hystrix Dashboard example
