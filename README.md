@@ -4,3 +4,5 @@
 4. spring-eureka-demo: Demo of Eureka Server with Replicas and Clients Registering with it
 5. spring-eureka-programmatic: Programmatically getting details of another service
 6. spring-eureka-resttemplate: Example of how to use a RestTemplate
+7. spring-hystrix-ciruitbreaker: Circuit breaker example
+8. 
