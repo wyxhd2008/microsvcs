@@ -7,3 +7,5 @@
 7. spring-hystrix-ciruitbreaker: Circuit breaker example
 8. spring-hystrix-config: Configuration parameters to Hystrix Command
 9. spring-hystrix-dashboard: Hystrix Dashboard example
+10. spring-ribbon-demo: Load Balancing with Ribbon Client
+11. zuul-edge-service-demo: Zuul Demo
