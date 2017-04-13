@@ -10,4 +10,5 @@
 10. spring-ribbon-demo: Load Balancing with Ribbon Client
 11. spring-zuul-demo: Zuul Demo
 12. spring-zuul-filters: Zuul Filters
-13. 
+13. spring-microservices-oauth: Simple OAuth Example
+14. spring-microservices-oauth: Simple OAuth Client 
