@@ -11,5 +11,6 @@
 11. spring-zuul-demo: Zuul Demo
 12. spring-zuul-filters: Zuul Filters
 13. spring-microservices-oauth: Simple OAuth Example
-14. spring-microservices-oauth: Simple OAuth Client 
-15. spring-microservices-oauth: Simple OAuth Client with HSQLDB
+14. spring-microservices-oauth-client: Simple OAuth Client 
+15. spring-microservices-oauth-client-hsqldb: Simple OAuth Client with HSQLDB
+16. spring-microservices-oauth-cliient-hsqldb-separate-resource: Simple OAuth Client with HSQLDB - Separate ResourceServer
