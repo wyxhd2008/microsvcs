@@ -14,3 +14,12 @@
 14. spring-microservices-oauth-client: Simple OAuth Client 
 15. spring-microservices-oauth-client-hsqldb: Simple OAuth Client with HSQLDB
 16. spring-microservices-oauth-cliient-hsqldb-separate-resource: Simple OAuth Client with HSQLDB - Separate ResourceServer
+17. spring-project-basic-services: Basic Services
+18. spring-project-basic-services-cloud-config: GIT Configuration added to Basic Services
+19. spring-project-basic-services-cloud-config-edge: GIT Configuration & Edge Services added to Basic Services
+
+Repositories are at following locations, create locally & point correctly
+1st Example: https://github.com/lalitrnagpal/configuration.git
+Project: https://github.com/lalitrnagpal/microsvcs-config.git 
+
+

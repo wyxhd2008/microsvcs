@@ -1,0 +1,162 @@
+Users\Training\Desktop\Courses\Spring Cloud\Lessons\1100\1102 Base Project Introduction\Base Project
+   │
+   ├[spring-microservices-library-catalog]
+   │   │
+   │   ├[.mvn]
+   │   │   │
+   │   │   └[wrapper]
+   │   │       │
+   │   │       ├maven-wrapper
+   │   │       └maven-wrapper
+   │   ├[.settings]
+   │   │   │
+   │   │   ├org.eclipse.core.resources
+   │   │   ├org.eclipse.jdt.core
+   │   │   ├org.eclipse.m2e.core
+   │   │   └org.eclipse.wst.common.project.facet.core
+   │   ├[src]
+   │   │   │
+   │   │   ├[main]
+   │   │   │   │
+   │   │   │   ├[java]
+   │   │   │   │   │
+   │   │   │   │   └[com]
+   │   │   │   │       │
+   │   │   │   │       └[oreilly]
+   │   │   │   │           │
+   │   │   │   │           └[cloud]
+   │   │   │   │               │
+   │   │   │   │               ├Book
+   │   │   │   │               └SpringMicroservicesLibraryCatalogApplication
+   │   │   │   └[resources]
+   │   │   │       │
+   │   │   │       ├[static]
+   │   │   │       ├[templates]
+   │   │   │       └application
+   │   │   └[test]
+   │   │       │
+   │   │       └[java]
+   │   │           │
+   │   │           └[com]
+   │   │               │
+   │   │               └[oreilly]
+   │   │                   │
+   │   │                   └[cloud]
+   │   │                       │
+   │   │                       └SpringMicroservicesLibraryCatalogApplicationTests
+   │   ├
+   │   ├
+   │   ├
+   │   ├mvnw
+   │   ├mvnw
+   │   └pom
+   ├[spring-microservices-library-reservation]
+   │   │
+   │   ├[.mvn]
+   │   │   │
+   │   │   └[wrapper]
+   │   │       │
+   │   │       ├maven-wrapper
+   │   │       └maven-wrapper
+   │   ├[.settings]
+   │   │   │
+   │   │   ├org.eclipse.core.resources
+   │   │   ├org.eclipse.jdt.core
+   │   │   ├org.eclipse.m2e.core
+   │   │   └org.eclipse.wst.common.project.facet.core
+   │   ├[src]
+   │   │   │
+   │   │   ├[main]
+   │   │   │   │
+   │   │   │   ├[java]
+   │   │   │   │   │
+   │   │   │   │   └[com]
+   │   │   │   │       │
+   │   │   │   │       └[oreilly]
+   │   │   │   │           │
+   │   │   │   │           └[cloud]
+   │   │   │   │               │
+   │   │   │   │               ├Reservation
+   │   │   │   │               └SpringMicroservicesLibraryReservationApplication
+   │   │   │   └[resources]
+   │   │   │       │
+   │   │   │       ├[static]
+   │   │   │       ├[templates]
+   │   │   │       └application
+   │   │   └[test]
+   │   │       │
+   │   │       └[java]
+   │   │           │
+   │   │           └[com]
+   │   │               │
+   │   │               └[oreilly]
+   │   │                   │
+   │   │                   └[cloud]
+   │   │                       │
+   │   │                       └SpringMicroservicesLibraryReservationApplicationTests
+   │   ├
+   │   ├
+   │   ├
+   │   ├mvnw
+   │   ├mvnw
+   │   └pom
+   └[spring-microservices-library-ui]
+       │
+       ├[.mvn]
+       │   │
+       │   └[wrapper]
+       │       │
+       │       ├maven-wrapper
+       │       └maven-wrapper
+       ├[.settings]
+       │   │
+       │   ├org.eclipse.core.resources
+       │   ├org.eclipse.jdt.core
+       │   ├org.eclipse.m2e.core
+       │   └org.eclipse.wst.common.project.facet.core
+       ├[src]
+       │   │
+       │   ├[main]
+       │   │   │
+       │   │   ├[java]
+       │   │   │   │
+       │   │   │   └[com]
+       │   │   │       │
+       │   │   │       └[oreilly]
+       │   │   │           │
+       │   │   │           └[cloud]
+       │   │   │               │
+       │   │   │               └SpringMicroservicesLibraryUiFinalApplication
+       │   │   └[resources]
+       │   │       │
+       │   │       ├[public]
+       │   │       │   │
+       │   │       │   └home
+       │   │       ├[static]
+       │   │       │   │
+       │   │       │   ├[css]
+       │   │       │   │   │
+       │   │       │   │   └styles
+       │   │       │   └[js]
+       │   │       │       │
+       │   │       │       ├jquery-3.1.1.min
+       │   │       │       └main
+       │   │       ├[templates]
+       │   │       └application
+       │   └[test]
+       │       │
+       │       └[java]
+       │           │
+       │           └[com]
+       │               │
+       │               └[oreilly]
+       │                   │
+       │                   └[cloud]
+       │                       │
+       │                       └SpringMicroservicesLibraryUiFinalApplicationTests
+       ├
+       ├
+       ├
+       ├mvnw
+       ├mvnw
+       └pom
